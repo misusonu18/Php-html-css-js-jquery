@@ -1,1 +1,6 @@
-# Php-html-css-js-jquery
+# first php program
+# how to print Hello world in php
+
+<?php
+ echo "Hello World";
+?>
